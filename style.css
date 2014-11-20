@@ -1,0 +1,61 @@
+
+/*
+Theme Name: VantagePoint Marketing
+Version: 1.0
+Author: VantagePoint Marketing
+*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+html {
+     -webkit-text-size-adjust:none;  
+}
+
+body {
+
+}
+
+
+
+
+
+/* @group @MEDIA Queries */
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 1200px) {
+
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	
+	
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+
+
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+
+
+}
+
+/* @end */
+
+
